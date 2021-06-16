@@ -9,7 +9,7 @@
         "profile_img": "images/avatar.png",
         "profile_img_alt": "Author avatar",
         "background": "dark",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "type": "action",
