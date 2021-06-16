@@ -1,6 +1,6 @@
 {
     "title": "Danny Mayer",
-    "layout_style": "simple",
+    "layout_style": "overflow",
     "palette": "blue",
     "header": {
         "type": "header",
